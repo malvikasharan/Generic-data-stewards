@@ -15,4 +15,4 @@ I value contributions in Dutch and English. Als je in het Nederlands wilt bijdra
 Any contribution is entirely voluntary!
 
 # Your privacy
-Coming soon!
+A privacy statement is coming soon!
