@@ -4,6 +4,7 @@
 This project is an investigation into the roles of generic data stewards in the Netherlands. I - a generic data steward myself - am conducting a survey with other generic data stewards to understand this.
 A data steward is a staff member at a research institution who supports researchers with their data management, gives advice, develops tools and policies, and gives training. Data stewards also usually support researchers when writing Data Management Plans, e.g. for grant applications.
 Some data stewards work for a certain discipline, others work for researchers of all disciplines. Some data stewards give more generic advice, while others know more about the functionalities of specific analysis tools. I want to understand more about the position of generic data stewards in these processes.
+I'm undertaking this project as part of the [Open Life Science](openlifesci.org) programme.
 
 ## Who is this for?
 Anybody who is interested in this topic: data stewards, policy advisors, researchers, and others.
