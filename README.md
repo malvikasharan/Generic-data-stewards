@@ -9,7 +9,7 @@ Some data stewards work for a certain discipline, others work for researchers of
 Anybody who is interested in this topic: data stewards, policy advisors, researchers, and others.
 
 ## How can I contribute?
-Great that you want to contribute! I am still looking for data stewards to take my survey. The link to my survey will follow shortly. Participation is entirely voluntary, and this is a project that I undertook on my own initiative and that is not mandated by my employer. You can find out exactly how to contribute in our [Contributing guidelines](Contributing.md) You can also [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfxozn8C0s3hObYaafc6HVU5TDrRu3V9ObkMmlCxjXHjIl5Nw/viewform?usp=sf_link) with the project lead. I value contributions from anyone who is interested in the topic. Please also read my [Code of Conduct](Code-of-Conduct.md).
+Great that you want to contribute! I am still looking for data stewards to take my survey. The link to my survey will follow shortly. Participation is entirely voluntary, and this is a project that I undertook on my own initiative and that is not mandated by my employer. You can find out exactly how to contribute in our [Contributing guidelines](Contributing.md). You can also [get in touch](https://docs.google.com/forms/d/e/1FAIpQLSfxozn8C0s3hObYaafc6HVU5TDrRu3V9ObkMmlCxjXHjIl5Nw/viewform?usp=sf_link) with the project lead. I value contributions from anyone who is interested in the topic. Please also read my [Code of Conduct](Code-of-Conduct.md).
 
 ## How do I cite this repository?
 This repository was licenced under a CC0 licence, but I would appreciate it if you cited me when you reuse content. You can cite this repository as follows: 
