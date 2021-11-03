@@ -4,7 +4,7 @@ Thank you so much for being interested in contributing! My name is Elisa, I am a
 This project is an investigation into the roles of generic data stewards in the Netherlands. I - a generic data steward myself - am conducting a survey with other generic data stewards to understand this. A data steward is a staff member at a research institution who supports researchers with their data management, gives advice, develops tools and policies, and gives training.
 
 # How can I contribute?
-First, make sure that you're familiar with our [Code of Conduct](Code of Conduct.md).
+First, make sure that you're familiar with our [Code of Conduct](https://github.com/Elisa-on-GitHub/Generic-data-stewards/blob/main/Code%20of%20Conduct.md).
 
 There are several ways to contribute to this project:
 - By filling in the survey (link coming soon) if you are a data steward at a Dutch university
